@@ -1,0 +1,12 @@
+<company>
+    <Employee name="E1">
+        <name>Vijay</name>
+        <empid>12
+            34
+        </empid>
+    </Employee>
+    <Employee name="E2">
+        <name>TestUser</name>
+        <empid>345</empid>
+    </Employee>
+</company>
