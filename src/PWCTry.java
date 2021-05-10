@@ -30,5 +30,7 @@ public class PWCTry {
             if(charArray[i] != '0' && charArray[i] != ' ')
             System.out.println("The Number of occurrence of " + charArray[i] + " is " + count[i]);
         }
+
+        System.out.println(charArray);
     }
 }
