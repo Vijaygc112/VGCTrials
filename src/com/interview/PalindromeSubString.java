@@ -1,5 +1,6 @@
 package com.interview;
 
+// Asked in Bazaarvoice interview
 // using brute force Algorithm
 public class PalindromeSubString {
 
