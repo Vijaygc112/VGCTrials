@@ -12,7 +12,7 @@ import java.util.Stack;
 public class ParenthesisMatch {
 
     public static void main(String[] args) {
-        String string = "{}(){}{}{}[[";
+        String string = "[](){}{";
         Boolean bool = checkParenthesis(string);
 
         if(bool)

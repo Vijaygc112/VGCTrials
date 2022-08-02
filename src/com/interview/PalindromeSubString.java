@@ -2,6 +2,10 @@ package com.interview;
 
 // Asked in Bazaarvoice interview
 // using brute force Algorithm
+//create substrings -- brute force
+//reverse the string -- util
+//check palindrome -- util
+//check for boundary conditions
 public class PalindromeSubString {
 
     public static void main(String[] args) {
@@ -14,11 +18,6 @@ public class PalindromeSubString {
     }
 
     private static String longestPalindrome(String string) {
-
-        //create substrings -- brute force
-        //reverse the string -- util
-        //check palindrome -- util
-        //check for boundary conditions
         String longestPalindrome = "";
         int longestPalindromeLength = 0;
 
