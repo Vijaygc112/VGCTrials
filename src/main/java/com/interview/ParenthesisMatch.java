@@ -27,7 +27,7 @@ public class ParenthesisMatch {
         for (int i=0; i< string.length() ; i++){
             char c = string.charAt(i);
             if (c == '{' || c == '(' || c == '[' ){
-                stack.push(string.charAt(i));
+                stack.push(c);
             }
 
             else if(!stack.isEmpty() &&
