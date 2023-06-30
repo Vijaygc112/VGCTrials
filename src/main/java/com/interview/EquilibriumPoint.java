@@ -7,7 +7,7 @@ public class EquilibriumPoint {
 
 
     public static void main(String[] args) {
-        int[] array = {2,0,4,5,2};
+        int[] array = {2,0,5,4,5,2};
         int length = array.length;
         System.out.println("Equilibrium index is : " + equilibriumIndex(array, length));
 
